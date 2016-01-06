@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300);
+
+* {
+  font-family: 'Quicksand';
+  text-align: center;
+}
+
+.score {
+  color: red;
+  font-size: 128px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 72px;
+  font-style: italic;
+}
+
+.input_field {
+  text-align: left;
+}
