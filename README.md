@@ -2,7 +2,7 @@
 
 ## Project
 
-Scrabble Score converts a letter or word into a resulting numeric score, as if played in a game of Scrabble, using Ruby.
+Scrabble Score website converts a letter or word into a resulting numeric score, as if played in a game of Scrabble, using Ruby.
 
 ## Objective
 
@@ -12,7 +12,7 @@ When the user inputs data check if the input is valid, meaning it doesn't includ
 
 Install by cloning the repository below.
 
-* [Scrabble score](https://github.com/Rilsta/scrabble_score_ruby)
+* [Scrabble score](https://github.com/Vawx/scrabble_score_sinatra)
 
 ## License
 
